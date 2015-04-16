@@ -62,7 +62,7 @@ We do not use cookies or Web beacons to collect Personal Information nor do we c
 
 ## Analytics
 
-Pear Deck also collects some information (ourselves or using third party services) using logging and cookies, such as IP address, which can be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of our Services, for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, and to verify users have the authorization needed for our Services to process their requests. As of the date this policy went into effect, we use Google Analytics. [The Privacy Policy of Google Analytics](http://www.google.com/intl/en/policies/) are available online, [and information on how to opt out of that service](https://tools.google.com/dlpage/gaoptout?hl=en).  Additionally, as of the date of this policy, we use Totango.com.  The [Totango Privacy Policy](http://www.totango.com/privacy/) is available online with opt out instructions.
+Pear Deck also collects some information (ourselves or using third party services) using logging and cookies, such as IP address, which can be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of our Services, for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, and to verify users have the authorization needed for our Services to process their requests. As of the date this policy went into effect, we use Google Analytics. [The Privacy Policy of Google Analytics](http://www.google.com/intl/en/policies/) are available online, [and information on how to opt out of that service](https://tools.google.com/dlpage/gaoptout?hl=en).  Additionally, as of the date of this policy, we use Totango.com and Intercom.io.  The [Totango Privacy Policy](http://www.totango.com/privacy/) is available online with opt out instructions. The [Intercom.io Privacy Policy](http://docs.intercom.io/privacy) is also available.
 
 ## HOW WE USE YOUR INFORMATION
 
@@ -116,7 +116,7 @@ Pear Deck will display your Personal Information in your profile page and elsewh
 
 * Mazira PDF processing service to convert existing files to Pear Deck format
 
-* Google Analytics and Totango to collect and report usage data
+* Google Analytics, Totango, and Intercom.io to collect and report usage data
 
 **Third-Party Applications**.   Pear Deck may share your Information with a third party application with your consent, for example when you choose to access our Services through such an application. We are not responsible for what those parties do with your information, so you should make sure you trust the application and that it has a privacy policy acceptable to you.
 
