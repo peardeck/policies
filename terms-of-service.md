@@ -1,6 +1,6 @@
 # **Pear Deck Terms of Service**
 
-## Last modified: April 2014
+## Last modified: July 2015
 
 ## 1. Your relationship with Pear Deck
 
@@ -10,7 +10,7 @@
 
 IMPORTANT NOTE REGARDING CHILDREN
 
-1.3	Generally. Our Site offers certain Services to schools for the benefit of the schools and their students. In providing such educational Services, we may collect personal information from students. In order to collect, use, or disclose personal information from users under 13 years of age ("Children"), we are required to comply with the Children’s Online Privacy Protection Act of 1998 (“COPPA”). Please read this Children’s Privacy Policy carefully as it explains (a) our practices regarding the collection, use, and disclosure of personal information from Children who use the Service, (b) the Child’s parent’s or guardian’s (“Parent’s”) ability to limit the collection, use and disclosure of personal information collected from their Children, and (c) the role of the Child’s school (“School”) in this process.
+1.3	Generally. Our Site offers certain Services to schools for the benefit of the schools and their students. In providing such educational Services, we may collect personal information from students. In order to collect, use, or disclose personal information from users under 13 years of age ("Children"), we are required to comply with the Federal Trade Commission Children’s Online Privacy Protection Act (“COPPA”). Please read this Children’s Privacy Policy carefully as it explains (a) our practices regarding the collection, use, and disclosure of personal information from Children who use the Service, (b) the Child’s parent’s or guardian’s (“Parent’s”) ability to limit the collection, use and disclosure of personal information collected from their Children, and (c) the role of the Child’s school (“School”) in this process.
 
 1.4	Parents. If your Child wants to use our Services, he/she must first get an Account from her school. Please contact your Child’s school for an Account. Please also review Pear Deck’s Children’s Privacy Policy.
 
@@ -60,13 +60,13 @@ IMPORTANT NOTE REGARDING CHILDREN
 
 5.3 You agree not to access (or attempt to access) any of the Services by any means other than through the interface that is provided by Pear Deck, unless you have been specifically allowed to do so in a separate agreement with Pear Deck. You specifically agree not to access (or attempt to access) any of the Services through any automated means (including use of scripts or web crawlers) and shall ensure that you comply with the instructions set out in any robots.txt file present on the Services.
 
-5.4 You agree that you will not engage in any activity that interferes with or disrupts the Services (or the servers and networks which are connected to the Services).
+5.4 You agree that you will not knowingly engage in any activity that interferes with or disrupts the Services (or the servers and networks which are connected to the Services).
 
 5.5 Unless you have been specifically permitted to do so in a separate agreement with Pear Deck, you agree that you will not reproduce, duplicate, copy, attempt to create a substitute or similar service through use of or access to, sell, trade or resell the Services for any purpose.
 
 5.6 You agree that you are solely responsible for (and that Pear Deck has no responsibility to you or to any third party for) any breach of your obligations under the Terms and for the consequences (including any loss or damage which Pear Deck may suffer) of any such breach.
 
-5.7 You agree that you will not, and will use commercially reasonable efforts to make sure a third party does not, use the Services to store or transfer any data that is controlled for export under any export or reexport control law or regulation. You are solely responsible for any compliance with the Health Insurance Portability and Accountability Act of 1996 and any regulations thereunder, as may be amended from time to time.
+5.7 You agree that you will not, and will use reasonable efforts to make sure a third party does not, use the Services to store or transfer any data that is controlled for export under any export or reexport control law or regulation. You are solely responsible for any compliance with the Health Insurance Portability and Accountability Act of 1996 and any regulations thereunder, as may be amended from time to time.
 
 5.8 You agree that you are responsible for your own conduct and Content while using the Services and for any consequences thereof. You agree to use the Services only for purposes that are legal, proper and in accordance with these Terms.
 
@@ -176,7 +176,7 @@ d. Other Forms of Payment. Pear Deck may enable other forms of payment by making
 
 15.4 Nothing in this Section shall affect Pear Deck’s rights regarding provision of Services under Section 4 of the Terms.
 
-15.5 When these Terms come to an end, all of the legal rights, obligations and liabilities that you and Pear Deck have benefited from, been subject to (or which have accrued over time whilst the Terms have been in force) or which are expressed to continue indefinitely, shall be unaffected by this cessation, and the provisions of paragraph 23.6 shall continue to apply to such rights, obligations and liabilities indefinitely.
+15.5 When these Terms come to an end, all of the legal rights, obligations and liabilities that you and Pear Deck have benefited from, been subject to (or which have accrued over time whilst the Terms have been in force) or which are expressed to continue indefinitely, shall be unaffected by this cessation, and the provisions of paragraph 22.6 shall continue to apply to such rights, obligations and liabilities indefinitely.
 
 ## 16. EXCLUSION OF WARRANTIES
 
