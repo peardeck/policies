@@ -1,10 +1,12 @@
 # Pear Deck Privacy Policy
-
-*Last Modified: March 31, 2016*
+*Last Modified: April 4, 2016*
 
 This Privacy Policy explains how Pear Deck, Inc., ("**_we_**" or “**_Pear Deck_**”) use protect, and disclose the information we collect when you use the Pear Deck services (the “**_Services_**”) through our website [www.PearDeck.com](http://peardeck.com) (“**_Site_**”), applications on Devices (“**_Apps_**”), through APIs, and through third parties.  A “**_Device_**” is any computer used to access the Services, including without limitation a desktop, laptop, smartphone, tablet, or other consumer electronic device.
 
-We reserve the right to modify this Privacy Policy effective immediately following posting of the modified version on the Site.  Your use of our Services following posting will constitute your acceptance of the modified version.  **IF YOU DO NOT ACCEPT THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SERVICES.**
+*Changes to this Privacy Policy*
+
+We manage changes to this Privacy Policy via [this public repository](https://github.com/peardeck/policies) hosted on GitHub.com. If we make a material change to this Privacy Policy with respect to how we collect and use your personal information, we will provide at least 30 days’ prior written notice to you by email to the email address specified in your account, if you have one, so that you have sufficient time to evaluate the change, and you can choose to opt-out by revoking Google Permission to your Pear Deck account before the change takes effect.  **IF YOU DO NOT ACCEPT THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SERVICES.**
+
 
 ## THE INFORMATION WE COLLECT AND STORE
 
