@@ -1,10 +1,10 @@
 # **Pear Deck Terms of Service**
 
-## Last modified: July 2015
+## Last modified: May 9, 2015
 
 ## 1. Your relationship with Pear Deck
 
-1.1 Your use of Pear Deck’s products, software, services and web sites (referred to collectively as the "Services" in this document) is subject to the terms of a legal agreement between you and Pear Deck. “Pear Deck” means Pear Deck Inc., whose principal place of business is at 316 E Court Street, Iowa City, IA 52240, United States. This document explains how the agreement is made up, and sets out some of the terms of that agreement.
+1.1 Your use of Pear Deck’s products, software, services and web sites (referred to collectively as the "Services" in this document) is subject to the terms of a legal agreement between you and Pear Deck. “Pear Deck” means Pear Deck Inc., whose principal place of business is at 320 E. Prentiss Street, Iowa City, IA 52240, United States. This document explains how the agreement is made up, and sets out some of the terms of that agreement.
 
 1.2 These Terms of Service form a legally binding agreement between you and Pear Deck in relation to your use of the Services. It is important that you take the time to read them carefully. This legal agreement is referred to below as the "Terms".
 
