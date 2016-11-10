@@ -1,5 +1,5 @@
 # Pear Deck Privacy Policy
-*Last Modified: April 4, 2016*
+*Last Modified: November 10, 2016 (changes to go into effect January 1, 2017)*
 
 This Privacy Policy explains how Pear Deck, Inc., ("**_we_**" or “**_Pear Deck_**”) use protect, and disclose the information we collect when you use the Pear Deck services (the “**_Services_**”) through our website [www.PearDeck.com](http://peardeck.com) (“**_Site_**”), applications on Devices (“**_Apps_**”), through APIs, and through third parties.  A “**_Device_**” is any computer used to access the Services, including without limitation a desktop, laptop, smartphone, tablet, or other consumer electronic device.
 
@@ -16,13 +16,13 @@ Pear Deck may collect and store the following information when running our Servi
 
 Depending on how you use the Services, you may be required to provide certain personally identifiable information ("**_Personal Information_**"), which may include, but is not limited to, your:
 
-* Name
-
 * Google Account (Email address)
 
-* Username for social media accounts you wish to connect to your account
+* Name (if you include it in your Google Profile)
 
-* Your image and likeness if you include it in your google profile or include in content that you create with our Services (these type of files are referred to as your "**_User Content_**")
+* Your image and likeness if you include it in your Google profile or include in content that you create with our Services (these type of files are referred to as your "**_User Content_**")
+
+* User Content may include text images and media that you include in your Pear Deck presentation
 
 You may choose not to provide your Personal Information; however, if you do not provide your Personal Information you may not be able to use all the functions offered by the Services.
 
@@ -50,7 +50,7 @@ In addition, when you use our Services, the following types of information may a
 
 * date and time stamps associated with transactions,
 
-* system configuration information,  and
+* system configuration information, and
 
 * metadata concerning your User Content, and other interactions with our Services.
 
@@ -60,7 +60,7 @@ Pear Deck also uses "cookies" to collect information and improve our Services. A
 
 We also use Web beacons, also called web bugs to collect information and improve our Services. A Web beacon is typically a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a site or in an email.
 
-We do not use cookies or Web beacons to collect Personal Information nor do we collect precise geographic location.  However, some Devices automatically log location information in photos and videos recorded by that Device. If you upload any User Content from a Device that does so, .you agree that we may use this information to optimize your experience. If you do not wish to share User Content embedded with your geo-location information with us, please do not upload them. If you don’t want to store location data in your User Content, please consult the documentation for your Device to turn off that feature.
+We do not use cookies or Web beacons to collect Personal Information nor do we collect precise geographic location.  However, some Devices automatically log location information in photos and videos recorded by that Device. If you upload any User Content from a Device that does so, you agree that we may use this information to optimize your experience. If you do not wish to share User Content embedded with your geo-location information with us, please do not upload them. If you don’t want to store location data in your User Content, please consult the documentation for your Device to turn off that feature.
 
 ## Analytics
 
@@ -86,9 +86,20 @@ We use your information:
 
 If you submit Personal Information to us, we will only use it for the purpose you requested or for which it is collected or for any purpose you subsequently authorize. 
 
-You grant Pear Deck an irrevocable, perpetual, royalty-free right and license to use the anonymous information we collect in any way that does not otherwise conflict with this policy.
+## DATA OWNERSHIP
 
-Pear Deck does not access your contact information or address book within your mobile device.  Nor does Pear Deck have any access to any of the personal information or credit card information that you have provided to Apple or Google to register for their services.
+All data remains the property of and is solely owned, and thereby controlled, by you.  You grant 
+Deck a non-exclusive, royalty free license, to use equipment, software, your data or other material of yours solely for the purpose of providing, maintaining, and supporting you and other licensees with Pear Deck Products and Services. However, Pear Deck may use and distribute the data for any lawful purpose outside the scope of the Agreement, provided always that such Data must be de-identified.
+
+## ACCESS & CORRECTING ERRONEOUS DATA
+
+Under FERPA, a school must provide a parent with an opportunity to inspect and review his or her child’s education records within 45 days following its receipt of a request. A school is required to provide a parent with copies of education records, or make other arrangements, if a failure to do so would effectively prevent the parent from obtaining access to the records.
+
+Requests to review may be directed to info@peardeck.com.  In the even there is any erroneous data contained in the student record, Pear Deck will advice parents, legal guardians, and eligible students to contact the school to update their information.
+
+## DATA TRANSFER
+
+User Content may be transferred from Pear Deck by sharing files or folders from your Google Drive.  Google also provides a tool called Takeout that allows you to export all data at one time (see: https://takeout.google.com/settings/takeout).  
 
 ## SPECIAL CONSIDERATION FOR PAYMENT INFORMATION
 
@@ -134,9 +145,9 @@ Service Providers used for the technical infrastructure of our application:
 
 **Non-private or Non-Personal Information**.   Pear Deck may disclose your non-private, aggregated, or otherwise non-personal information, such as usage statistics of our Services. However, in such cases, your usage data is aggregated with the usage data of others and does not identify you individually.
 
-## CHANGING OR DELETING YOUR INFORMATION
+## DELETING YOUR INFORMATION
 
-To delete your account, please remove the Pear Deck application from your [Google Drive Permissions] (https://security.google.com/settings/security/permissions?pli=1)
+To delete your account, please remove the Pear Deck application from your [Google Drive Permissions] (https://security.google.com/settings/security/permissions?pli=1) and delete your Pear Deck user content from your Google Drive. 
 
 ## Pear Deck ENTERPRISE ACCOUNT
 
@@ -170,7 +181,7 @@ We provide Parents the following choices with respect to the collection, use, re
 
 If a Parent chooses to prohibit any future collection, use or disclosure of the Child’s Personal Information, the Parent may do so by terminating the Child’s Account through the School, and requesting the deletion of the Child’s Personal Information through the School. Upon receiving such request from the Child’s School, we will delete the Child’s Account information from our live databases and all the information and data stored for such Account. Company will not have any liability whatsoever for any termination of the Account or related deletion of the Child’s Personal Information. When we delete Personal Information, it will be deleted from our active databases but may remain in our archives. 
 
-## YOUR CONSENT
+## DATA LOCATION
 
 If you reside outside the U.S., the anonymous information we collect will be transferred to the U.S. and processed and stored there under U.S. privacy standards.  By using the Services and providing Information to Pear Deck, you consent to the use, transfer and processing of the anonymous information we collect as set forth in this Privacy Policy, all of which activities will take place in the U.S.
 
@@ -178,3 +189,20 @@ If you reside outside the U.S., the anonymous information we collect will be tra
 
 If you have any questions about this Privacy Policy, please contact us at help@PearDeck.com.
 
+## SPECIAL CONSIDERATIONS BY STATE
+
+California – Pear Deck will not use your data for any purpose beyond the indicated purposes in the Terms of Use, which includes this Privacy Policy.  This includes, but is not limited to, Pear Deck’s policy to never use PII from a Pupil’s Records to engage in targeted advertising.
+
+Colorado – Pear Deck will not use your data for any purpose beyond the indicated purposes in the Terms of Use, which includes this Privacy Policy.  Only the Pear Deck employees that have a legitimate interest in accessing your data, will be granted authorization by Pear Deck. Colorado law shall govern this agreement between you and Pear Deck.  All terms herein are defined in accordance with Colorado Open Records Act (“Act”), C.R.S. 24-72- 101.
+
+Connecticut – Pear Deck will not use your data for any purpose beyond the indicated purposes in the Terms of Use, which includes this Privacy Policy.  This includes, but is not limited to, Pear Deck’s policy to never use any student’s PII to engage in targeted advertising.  Pear Deck will utilize industry standard security, or better, to ensure the protection of said student PII.  Connecticut law shall govern this agreement between you and Pear Deck.  All terms herein are defined in accordance with Public Act No. 16-189, and in case of any ambiguity or conflict between the terms herein and Public Act No. 16-189, then Public Act No. 16-189 will govern.
+
+Florida – Pear Deck will provide notification of a security breach pursuant to requirements as mandated in the Florida Information Protection Act of 2014.
+
+Maryland – Pear Deck will not use Covered Information to engage in targeted advertising.
+
+New York – In accordance with New York Education Law § 2-d, Pear Deck will comply with and attach to your contract the Parents’ Bill of Rights for Data Privacy and Security, as applicable.
+
+Pennsylvania – Pear Deck will provide notification of a security breach pursuant to the requirements of Pennsylvania’s Breach of Personal Information Notification Act.
+
+Washington – Pear Deck will provide notice before making material changes to this Privacy Policy.
