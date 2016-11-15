@@ -1,7 +1,9 @@
 # Pear Deck Privacy Policy
-*Last Modified: November 10, 2016 (changes to go into effect January 1, 2017)*
+*Last Modified: November 18, 2016 (changes to go into effect January 1, 2017)*
 
-This Privacy Policy explains how Pear Deck, Inc., ("**_we_**" or “**_Pear Deck_**”) use protect, and disclose the information we collect when you use the Pear Deck services (the “**_Services_**”) through our website [www.PearDeck.com](http://peardeck.com) (“**_Site_**”), applications on Devices (“**_Apps_**”), through APIs, and through third parties.  A “**_Device_**” is any computer used to access the Services, including without limitation a desktop, laptop, smartphone, tablet, or other consumer electronic device.
+Pear Deck is designed for use in schools, and we are committed to the highest standards of protection for student data and personally identifiable information (“PII”) at all times.  In addition to this Privacy Policy, we also comply with the Family Educational Rights and Privacy Act (“FERPA”), and the Children’s Online Privacy Protection Act ("COPPA"), and applicable state laws. In addition, Pear Deck has signed the [Student Privacy Pledge] (https://studentprivacypledge.org/).
+
+This Privacy Policy explains how Pear Deck, Inc., ("**_we_**" or “**_Pear Deck_**”) use, protect, and disclose the information we collect when you use the Pear Deck services (the “**_Services_**”) through our website [www.PearDeck.com](http://peardeck.com) (“**_Site_**”), applications on Devices (“**_Apps_**”), through APIs, and through third parties.  A “**_Device_**” is any computer used to access the Services, including without limitation a desktop, laptop, smartphone, tablet, or other consumer electronic device.
 
 *Changes to this Privacy Policy*
 
@@ -14,7 +16,7 @@ Pear Deck may collect and store the following information when running our Servi
 
 ## Information You Provide
 
-Depending on how you use the Services, you may be required to provide certain personally identifiable information ("**_Personal Information_**"), which may include, but is not limited to, your:
+Pear Deck does not intentionally collect any personally identifiable information ("PII") from users identified as students. Depending on how you use the Services, you may be required to provide certain personally identifiable information ("**_Personal Information_**") through your Google Account, which may include, but is not limited to, your:
 
 * Google Account (Email address)
 
@@ -26,11 +28,7 @@ Depending on how you use the Services, you may be required to provide certain pe
 
 You may choose not to provide your Personal Information; however, if you do not provide your Personal Information you may not be able to use all the functions offered by the Services.
 
-For questions about your Personal Information on our Services, please contact info@PearDeck.com.
-
-## Refer a Friend
-
-When you invite others to join Pear Deck or share your User Content via email, you will need to provide us with email addresses for each person that you wish to send your User Content or an invite to.
+For questions about your Personal Information on our Services, please contact privacy@PearDeck.com.
 
 ## Usage Data
 
@@ -46,7 +44,7 @@ In addition, when you use our Services, the following types of information may a
 
 * Non-precise geographic location (e.g. zip code and city)
 
-* Technical information about your device, system and App software, and peripherals
+* Technical information about your device, system and App software, and peripherals,
 
 * date and time stamps associated with transactions,
 
@@ -88,18 +86,17 @@ If you submit Personal Information to us, we will only use it for the purpose yo
 
 ## DATA OWNERSHIP
 
-All data remains the property of and is solely owned, and thereby controlled, by you.  You grant 
-Deck a non-exclusive, royalty free license, to use equipment, software, your data or other material of yours solely for the purpose of providing, maintaining, and supporting you and other licensees with Pear Deck Products and Services. However, Pear Deck may use and distribute the data for any lawful purpose outside the scope of the Agreement, provided always that such Data must be de-identified.
+All data remains the property of and is solely owned, and thereby controlled, by you.  You grant Pear Deck a non-exclusive, royalty free license, to use equipment, software, your data or other material of yours solely for the purpose of providing, maintaining, and supporting you and other licensees with Pear Deck Products and Services. However, Pear Deck may use and distribute the data for any lawful purpose outside the scope of the Agreement, provided always that such Data must be de-identified.
 
 ## ACCESS & CORRECTING ERRONEOUS DATA
 
 Under FERPA, a school must provide a parent with an opportunity to inspect and review his or her child’s education records within 45 days following its receipt of a request. A school is required to provide a parent with copies of education records, or make other arrangements, if a failure to do so would effectively prevent the parent from obtaining access to the records.
 
-Requests to review may be directed to info@peardeck.com.  In the even there is any erroneous data contained in the student record, Pear Deck will advice parents, legal guardians, and eligible students to contact the school to update their information.
+Requests to review may be directed to privacy@peardeck.com.  In the even there is any erroneous data contained in the student record, Pear Deck will advice parents, legal guardians, and eligible students to contact the school to update their information.
 
 ## DATA TRANSFER
 
-User Content may be transferred from Pear Deck by sharing files or folders from your Google Drive.  Google also provides a tool called Takeout that allows you to export all data at one time (see: https://takeout.google.com/settings/takeout).  
+User Content may be transferred from Pear Deck by sharing files or folders from your Google Drive.  Google also provides a tool called Takeout that allows you to export and transfer all data at one time (see: https://takeout.google.com/settings/takeout).  
 
 ## SPECIAL CONSIDERATION FOR PAYMENT INFORMATION
 
@@ -107,7 +104,7 @@ If you provide credit card or debit card information to complete a purchase, it 
 
 Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.  Your credit card information will also be subject to our payment processor’s privacy policy in addition to ours. **PLEASE READ THE PRIVACY POLICY ON THE WEBSITE OF ANY PAYMENT PROCESSOR THAT YOU ARE DIRECTED TO REGARDING THE USE, STORAGE AND PROTECTION OF YOUR CREDIT CARD INFORMATION BEFORE SUBMITTING ANY CREDIT CARD INFORMATION.**
 
-All information that you provide to us or our third party payment processor must be accurate, current and complete.  In the event of a dispute, we may issue you with a provisional credit to your card until the dispute is resolved.  If we issue a provisional credit and the dispute is resolved and the charges were correct, we shall recharge your debit or credit card to reverse this provisional credit. You expressly consent to this reversal if you falsely or incorrectly dispute a charge.  If you wish to dispute a charge by mail or telephone please contact us at info@PearDeck.com.  If we elect at any time to charge any convenience fee for making a payment via a debit card, credit card, or electronic check, these fees will be stated at the time of payment before you finalize your charge.  In the event of an unauthorized charge using a debit card or electronic check, please consult your bank’s rules regarding refunds and reversals.  Pear Deck complies with all legal requirements of your State’s applicable laws regarding providing refunds for unauthorized charges.  When you make a charge, we shall display a completed charge screen.  This is your electronic receipt.  You should print or save this electronic receipt for your records.  YOU REPRESENT AND WARRANT THAT YOU HAVE THE LEGAL RIGHT TO USE ANY CREDIT CARDS, DEBIT CARDS OR OTHER PAYMENT MEANS USED TO INITIATE ANY TRANSACTION.
+All information that you provide to us or our third party payment processor must be accurate, current and complete.  In the event of a dispute, we may issue you with a provisional credit to your card until the dispute is resolved.  If we issue a provisional credit and the dispute is resolved and the charges were correct, we shall recharge your debit or credit card to reverse this provisional credit. You expressly consent to this reversal if you falsely or incorrectly dispute a charge.  If you wish to dispute a charge by mail or telephone please contact us at privacy@PearDeck.com.  If we elect at any time to charge any convenience fee for making a payment via a debit card, credit card, or electronic check, these fees will be stated at the time of payment before you finalize your charge.  In the event of an unauthorized charge using a debit card or electronic check, please consult your bank’s rules regarding refunds and reversals.  Pear Deck complies with all legal requirements of your State’s applicable laws regarding providing refunds for unauthorized charges.  When you make a charge, we shall display a completed charge screen.  This is your electronic receipt.  You should print or save this electronic receipt for your records.  YOU REPRESENT AND WARRANT THAT YOU HAVE THE LEGAL RIGHT TO USE ANY CREDIT CARDS, DEBIT CARDS OR OTHER PAYMENT MEANS USED TO INITIATE ANY TRANSACTION.
 
 ## INFORMATION SHARING AND DISCLOSURE
 
@@ -151,7 +148,7 @@ To delete your account, please remove the Pear Deck application from your [Googl
 
 ## Pear Deck ENTERPRISE ACCOUNT
 
-If you have a Pear Deck Enterprise account, your Administrator may be able to:
+If you have a Pear Deck Enterprise from your school or organization account, your Administrator may be able to:
 
 * access information in and about your Pear Deck Enterprise account;
 
@@ -175,7 +172,7 @@ We are required under the Children’s Online Privacy Protection Act (COPPA), wi
 
 If a Child wants to use our Service, he/she must first obtain an Account from his/her School. Before an Account is provided to a School, we require that the School (on behalf of the Parent) (a) consent to the collection, use and disclosure of personal information of the Child, through the Service, in accordance with this Children’s Privacy Policy, and (b) agree that the Child’s online activities are subject to the Terms of Service.
 
-As required under COPPA, we allow Parents certain choices regarding the personal information submitted by their Children Parents should make any permitted requests with the School and have the School, as the Parent’s agent, pass on those requests to Company. We may rely on the instructions that we receive from the School that we reasonably believe are given by a Child’s Parent to the School. For example, if a representative from the Child’s School contacts us and provides the Account information we request, we may assume that the person calling is acting on behalf of the Child’s Parent.
+As required under COPPA, we allow Parents certain choices regarding the personal information submitted by their Children Parents should make any permitted requests with the School and have the School, as the Parent’s agent, pass on those requests to Pear Deck. We may rely on the instructions that we receive from the School that we reasonably believe are given by a Child’s Parent to the School. For example, if a representative from the Child’s School contacts us and provides the Account information we request, we may assume that the person calling is acting on behalf of the Child’s Parent.
 
 We provide Parents the following choices with respect to the collection, use, retention and disclosure of Personal Information. A Child’s registration information is always accessible to him/her. A Parent has the right to review her Child’s Personal Information, which the Parent can obtain by contacting her Child’s School. After reviewing the Child’s Personal Information, the Parent may ask us to update or delete the Child’s Personal Information by requesting such changes through the Child’s School. A Parent may prohibit us from sharing a Child’s Personal Information with a third party by requesting such prohibition through the Child’s School. Notwithstanding any such requests, we may continue to share a Child’s Personal Information with third parties for the Internal Purposes and Enforcement Purposes (each as described above).
 
@@ -183,11 +180,11 @@ If a Parent chooses to prohibit any future collection, use or disclosure of the 
 
 ## DATA LOCATION
 
-If you reside outside the U.S., the anonymous information we collect will be transferred to the U.S. and processed and stored there under U.S. privacy standards.  By using the Services and providing Information to Pear Deck, you consent to the use, transfer and processing of the anonymous information we collect as set forth in this Privacy Policy, all of which activities will take place in the U.S.
+If you reside outside the U.S., the information we collect will be transferred to the U.S. and processed and stored there under U.S. privacy standards.  By using the Services and providing Information to Pear Deck, you consent to the use, transfer and processing of the anonymous information we collect as set forth in this Privacy Policy, all of which activities will take place in the U.S.
 
 ## CONTACTING US
 
-If you have any questions about this Privacy Policy, please contact us at help@PearDeck.com.
+If you have any questions about this Privacy Policy, please contact us at privacy@PearDeck.com.
 
 ## SPECIAL CONSIDERATIONS BY STATE
 
