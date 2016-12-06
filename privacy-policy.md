@@ -46,23 +46,12 @@ In addition, when you use our Services, the following types of information may a
 
 * Technical information about your device, system and App software, and peripherals,
 
-* date and time stamps associated with transactions,
+* Date and time stamps associated with transactions,
 
-* system configuration information, and
+* System configuration information, and
 
-* metadata concerning your User Content, and other interactions with our Services.
+* Metadata concerning your User Content, and other interactions with our Services.
 
-## Cookies and Web beacons
-
-Pear Deck also uses "cookies" to collect information and improve our Services. A cookie is a small data file that we transfer to your Device. We may use “persistent cookies” to save your registration ID and login password for future logins to our Services. We may use “session ID cookies” to enable certain features of our Services, to better understand how you interact with our Services and to monitor aggregate usage and web traffic routing on our Services. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all aspects of our Services.
-
-We also use Web beacons, also called web bugs to collect information and improve our Services. A Web beacon is typically a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a site or in an email.
-
-We do not use cookies or Web beacons to collect Personal Information nor do we collect precise geographic location.  However, some Devices automatically log location information in photos and videos recorded by that Device. If you upload any User Content from a Device that does so, you agree that we may use this information to optimize your experience. If you do not wish to share User Content embedded with your geo-location information with us, please do not upload them. If you don’t want to store location data in your User Content, please consult the documentation for your Device to turn off that feature.
-
-## Analytics
-
-Pear Deck also collects some information (ourselves or using third party services) using logging and cookies, such as IP address, which can be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of our Services, for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, and to verify users have the authorization needed for our Services to process their requests. As of the date this policy went into effect, we use Google Analytics to track anonymous usage across all users and Intercom.io to track usage for users specifically identified as teachers. [The Privacy Policy of Google Analytics](http://www.google.com/intl/en/policies/) are available online, [and information on how to opt out of that service](https://tools.google.com/dlpage/gaoptout?hl=en). The [Intercom.io Privacy Policy](http://docs.intercom.io/privacy) is also available.
 
 ## HOW WE USE YOUR INFORMATION
 
@@ -82,7 +71,11 @@ We use your information:
 
 * to determine general, non-identifying demographics like location (down to the city level), age range (e.g. 25-35), and equipment profiles (e.g. Chromebook with medium-size screen).
 
-If you submit Personal Information to us, we will only use it for the purpose you requested or for which it is collected or for any purpose you subsequently authorize. 
+If you submit Personal Information to us, we will only use it for the purpose you requested or for which it is collected or for any purpose you subsequently authorize. Pear Deck will never sell your information or use it to build to marketing profile.
+
+## HOW WE COLLECT USAGE DATA
+
+Pear Deck collects some information (ourselves or using third party services) using logging and cookies, such as IP address, which can be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of our Services, for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, and to verify users have the authorization needed for our Services to process their requests. As of the date this policy went into effect, we use Google Analytics to track anonymous usage across all users and Intercom.io to track usage for users specifically identified as teachers. [The Privacy Policy of Google Analytics](http://www.google.com/intl/en/policies/) are available online, [and information on how to opt out of that service](https://tools.google.com/dlpage/gaoptout?hl=en). The [Intercom.io Privacy Policy](http://docs.intercom.io/privacy) is also available.
 
 ## DATA OWNERSHIP
 
@@ -92,19 +85,19 @@ All data remains the property of and is solely owned, and thereby controlled, by
 
 Under FERPA, a school must provide a parent with an opportunity to inspect and review his or her child’s education records within 45 days following its receipt of a request. A school is required to provide a parent with copies of education records, or make other arrangements, if a failure to do so would effectively prevent the parent from obtaining access to the records.
 
-Requests to review may be directed to privacy@peardeck.com.  In the even there is any erroneous data contained in the student record, Pear Deck will advice parents, legal guardians, and eligible students to contact the school to update their information.
+Requests to review may be directed to privacy@peardeck.com.  In the even there is any erroneous data contained in the student record, Pear Deck will advise parents, legal guardians, and eligible students to contact the school to update their information in their Google user profile.
 
 ## DATA TRANSFER
 
 User Content may be transferred from Pear Deck by sharing files or folders from your Google Drive.  Google also provides a tool called Takeout that allows you to export and transfer all data at one time (see: https://takeout.google.com/settings/takeout).  
 
-## SPECIAL CONSIDERATION FOR PAYMENT INFORMATION
+## PAYMENT INFORMATION
 
 If you provide credit card or debit card information to complete a purchase, it is our policy to use third-party payment processing systems that comply with the Payment Card Industry Data Security Standard (PCI-DSS), which is an industry wide security standard designed to protect the confidentiality and security of your credit card information, by encryption using secure socket layer technology (SSL) and storage with AES-256 encryption.  
 
-Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.  Your credit card information will also be subject to our payment processor’s privacy policy in addition to ours. **PLEASE READ THE PRIVACY POLICY ON THE WEBSITE OF ANY PAYMENT PROCESSOR THAT YOU ARE DIRECTED TO REGARDING THE USE, STORAGE AND PROTECTION OF YOUR CREDIT CARD INFORMATION BEFORE SUBMITTING ANY CREDIT CARD INFORMATION.**
+Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.  Your credit card information will also be subject to our payment processor’s privacy policy in addition to ours. As of the date this policy went into effect, Pear Deck uses Stripe [Privacty Policy](https://stripe.com/us/privacy) for payment processing.
 
-All information that you provide to us or our third party payment processor must be accurate, current and complete.  In the event of a dispute, we may issue you with a provisional credit to your card until the dispute is resolved.  If we issue a provisional credit and the dispute is resolved and the charges were correct, we shall recharge your debit or credit card to reverse this provisional credit. You expressly consent to this reversal if you falsely or incorrectly dispute a charge.  If you wish to dispute a charge by mail or telephone please contact us at privacy@PearDeck.com.  If we elect at any time to charge any convenience fee for making a payment via a debit card, credit card, or electronic check, these fees will be stated at the time of payment before you finalize your charge.  In the event of an unauthorized charge using a debit card or electronic check, please consult your bank’s rules regarding refunds and reversals.  Pear Deck complies with all legal requirements of your State’s applicable laws regarding providing refunds for unauthorized charges.  When you make a charge, we shall display a completed charge screen.  This is your electronic receipt.  You should print or save this electronic receipt for your records.  YOU REPRESENT AND WARRANT THAT YOU HAVE THE LEGAL RIGHT TO USE ANY CREDIT CARDS, DEBIT CARDS OR OTHER PAYMENT MEANS USED TO INITIATE ANY TRANSACTION.
+If you wish to dispute a charge by mail or telephone please contact us at hello@PearDeck.com. Pear Deck complies with all legal requirements of your State’s applicable laws regarding providing refunds for unauthorized charges.  When you make a charge, we shall display a completed charge screen.  This is your electronic receipt.  You should print or save this electronic receipt for your records.  YOU REPRESENT AND WARRANT THAT YOU HAVE THE LEGAL RIGHT TO USE ANY CREDIT CARDS, DEBIT CARDS OR OTHER PAYMENT MEANS USED TO INITIATE ANY TRANSACTION.
 
 ## INFORMATION SHARING AND DISCLOSURE
 
@@ -188,13 +181,15 @@ If you have any questions about this Privacy Policy, please contact us at privac
 
 ## SPECIAL CONSIDERATIONS BY STATE
 
-California – Pear Deck will not use your data for any purpose beyond the indicated purposes in the Terms of Use, which includes this Privacy Policy.  This includes, but is not limited to, Pear Deck’s policy to never use PII from a Pupil’s Records to engage in targeted advertising.
+California – Pear Deck will not use your data for any purpose beyond the indicated purposes in the Terms of Use, which includes this Privacy Policy.  This includes, but is not limited to, Pear Deck’s policy to never use PII from a Pupil’s Records to engage in targeted advertising. All terms herein are defined in accordance with SB-1177 SOPIPA.
 
 Colorado – Pear Deck will not use your data for any purpose beyond the indicated purposes in the Terms of Use, which includes this Privacy Policy.  Only the Pear Deck employees that have a legitimate interest in accessing your data, will be granted authorization by Pear Deck. Colorado law shall govern this agreement between you and Pear Deck.  All terms herein are defined in accordance with Colorado Open Records Act (“Act”), C.R.S. 24-72- 101.
 
 Connecticut – Pear Deck will not use your data for any purpose beyond the indicated purposes in the Terms of Use, which includes this Privacy Policy.  This includes, but is not limited to, Pear Deck’s policy to never use any student’s PII to engage in targeted advertising.  Pear Deck will utilize industry standard security, or better, to ensure the protection of said student PII.  Connecticut law shall govern this agreement between you and Pear Deck.  All terms herein are defined in accordance with Public Act No. 16-189, and in case of any ambiguity or conflict between the terms herein and Public Act No. 16-189, then Public Act No. 16-189 will govern.
 
 Florida – Pear Deck will provide notification of a security breach pursuant to requirements as mandated in the Florida Information Protection Act of 2014.
+
+Maine - All terms herein are defined in accordance with SP0183, Maine's Student Information Privacy Act.
 
 Maryland – Pear Deck will not use Covered Information to engage in targeted advertising.
 
