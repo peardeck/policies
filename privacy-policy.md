@@ -1,5 +1,5 @@
 # Pear Deck Privacy Policy
-*Last Modified: November 18, 2016 (changes to go into effect January 1, 2017)*
+*Last Modified: December 6, 2016 (changes to go into effect January 6, 2017)*
 
 Pear Deck is designed for use in schools, and we are committed to the highest standards of protection for student data and personally identifiable information (“PII”) at all times.  In addition to this Privacy Policy, we also comply with the Family Educational Rights and Privacy Act (“FERPA”), and the Children’s Online Privacy Protection Act ("COPPA"), and applicable state laws. In addition, Pear Deck has signed the [Student Privacy Pledge] (https://studentprivacypledge.org/).
 
