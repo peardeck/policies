@@ -1,5 +1,5 @@
 # Pear Deck Privacy Policy
-*Last Modified: December 6, 2016 (changes to go into effect January 6, 2017)*
+*Last Modified: May 16, 2017 (changes to go into effect May 16, 2017)*
 
 Pear Deck is designed for use in schools, and we are committed to the highest standards of protection for student data and personally identifiable information (“PII”) at all times.  In addition to this Privacy Policy, we also comply with the Family Educational Rights and Privacy Act (“FERPA”), and the Children’s Online Privacy Protection Act ("COPPA"), and applicable state laws. In addition, Pear Deck has signed the [Student Privacy Pledge] (https://studentprivacypledge.org/).
 
@@ -83,9 +83,9 @@ All data remains the property of and is solely owned, and thereby controlled, by
 
 ## ACCESS & CORRECTING ERRONEOUS DATA
 
-Under FERPA, a school must provide a parent with an opportunity to inspect and review his or her child’s education records within 45 days following its receipt of a request. A school is required to provide a parent with copies of education records, or make other arrangements, if a failure to do so would effectively prevent the parent from obtaining access to the records.
+Under FERPA, a school must provide a parent, teacher or school administrator with an opportunity to inspect and review his or her child’s education records within 45 days following its receipt of a request. A school is required to provide a parent with copies of education records, or make other arrangements, if a failure to do so would effectively prevent the parent from obtaining access to the records.
 
-Requests to review may be directed to privacy@peardeck.com.  In the even there is any erroneous data contained in the student record, Pear Deck will advise parents, legal guardians, and eligible students to contact the school to update their information in their Google user profile.
+Requests to review student data from parents, teachers, and administrators may be directed to privacy@peardeck.com.  In the event there is any erroneous data contained in the student record, Pear Deck will advise parents, legal guardians, and eligible students to contact the school to update their information in their Google user profile.
 
 ## DATA TRANSFER
 
@@ -115,7 +115,7 @@ Service Providers used for business functions:
 
 * Salesforce CRM’s customer relationship software to manage contact information, history, and usage data shared securely from Intercom.io
 
-* Google Analytics and Intercom.io to collect and report usage data
+* Google Analytics, Intercom.io and Zoho Reports to collect, analyze and report usage data
 
 * Stripe and ChartMogul to collect and report subscription data for premium users
 
