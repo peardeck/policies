@@ -1,5 +1,5 @@
 # Pear Deck Privacy Policy
-*Last Modified: May 16, 2017 (changes to go into effect May 16, 2017)*
+*Last Modified: September 12, 2017 (changes to go into effect September 12, 2017)*
 
 Pear Deck is designed for use in schools, and we are committed to the highest standards of protection for student data and personally identifiable information (“PII”) at all times.  In addition to this Privacy Policy, we also comply with the Family Educational Rights and Privacy Act (“FERPA”), and the Children’s Online Privacy Protection Act ("COPPA"), and applicable state laws. In addition, Pear Deck has signed the [Student Privacy Pledge] (https://studentprivacypledge.org/).
 
@@ -115,7 +115,7 @@ Service Providers used for business functions:
 
 * Salesforce CRM’s customer relationship software to manage contact information, history, and usage data shared securely from Intercom.io
 
-* Google Analytics, Intercom.io and Zoho Reports to collect, analyze and report usage data
+* Google Analytics, Intercom.io, Segment.com and Zoho Reports to collect, analyze and report usage data
 
 * Stripe and ChartMogul to collect and report subscription data for premium users
 
