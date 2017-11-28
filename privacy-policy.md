@@ -1,5 +1,5 @@
 # Pear Deck Privacy Policy
-*Last Modified: September 12, 2017 (changes to go into effect September 12, 2017)*
+*Last Modified: November 28, 2017 (changes to go into effect November 28, 2017)*
 
 Pear Deck is designed for use in schools, and we are committed to the highest standards of protection for student data and personally identifiable information (“PII”) at all times.  In addition to this Privacy Policy, we also comply with the Family Educational Rights and Privacy Act (“FERPA”), and the Children’s Online Privacy Protection Act ("COPPA"), and applicable state laws. In addition, Pear Deck has signed the [Student Privacy Pledge] (https://studentprivacypledge.org/).
 
@@ -77,6 +77,8 @@ If you submit Personal Information to us, we will only use it for the purpose yo
 
 Pear Deck collects some information (ourselves or using third party services) using logging and cookies, such as IP address, which can be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of our Services, for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, and to verify users have the authorization needed for our Services to process their requests. As of the date this policy went into effect, we use Google Analytics to track anonymous usage across all users and Intercom.io to track usage for users specifically identified as teachers. [The Privacy Policy of Google Analytics](http://www.google.com/intl/en/policies/) are available online, [and information on how to opt out of that service](https://tools.google.com/dlpage/gaoptout?hl=en). The [Intercom.io Privacy Policy](http://docs.intercom.io/privacy) is also available.
 
+We store all of our data on Google Cloud Platform and allow a third-party called Looker.com to access it to provide us with analytics.
+
 ## DATA OWNERSHIP
 
 All data remains the property of and is solely owned, and thereby controlled, by you.  You grant Pear Deck a non-exclusive, royalty free license, to use equipment, software, your data or other material of yours solely for the purpose of providing, maintaining, and supporting you and other licensees with Pear Deck Products and Services. However, Pear Deck may use and distribute the data for any lawful purpose outside the scope of the Agreement, provided always that such Data must be de-identified.
@@ -115,7 +117,7 @@ Service Providers used for business functions:
 
 * Salesforce CRM’s customer relationship software to manage contact information, history, and usage data shared securely from Intercom.io
 
-* Google Analytics, Intercom.io, Segment.com and Zoho Reports to collect, analyze and report usage data
+* Google Analytics, Intercom.io, Segment.com, Looker.com, and Zoho Reports to collect, analyze and report usage data
 
 * Stripe and ChartMogul to collect and report subscription data for premium users
 
