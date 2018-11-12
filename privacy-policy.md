@@ -119,7 +119,7 @@ Service Providers used for business functions:
 
 * Google Analytics, Intercom.io, Segment.com, Looker.com, and Zoho Reports to collect, analyze and report usage data
 
-* Stripe and ChartMogul to collect and report subscription data for premium users
+* Stripe, ProfitWell, and ChartMogul to collect and report subscription data for premium users
 
 Service Providers used for the technical infrastructure of our application:
 
