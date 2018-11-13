@@ -1,6 +1,6 @@
 # **Pear Deck Terms of Service**
 
-## Last modified: May 9, 2015
+## Last modified: November 12, 2018
 
 ## 1. Your relationship with Pear Deck
 
@@ -100,11 +100,11 @@ d. Other Forms of Payment. Pear Deck may enable other forms of payment by making
 
 7.2 Accordingly, you agree that you will be solely responsible to Pear Deck for all activities that occur under your account.
 
-7.3 If you become aware of any unauthorized use of your password or of your account, you agree to notify Pear Deck immediately at support@Pear Deck.com.
+7.3 If you become aware of any unauthorized use of your password or of your account, you agree to notify Pear Deck immediately at help@peardeck.com.
 
 ## 8. Privacy and your personal information
 
-8.1 For information about Pear Deck’s data protection practices, please read Pear Deck’s privacy policy at http://www.Pear Deck.com/pages/privacy. This policy explains how Pear Deck treats your personal information, and protects your privacy, when you use the Services.
+8.1 For information about Pear Deck’s data protection practices, please read Pear Deck’s privacy policy at https://github.com/peardeck/policies/blob/master/privacy-policy.md. This policy explains how Pear Deck treats your personal information, and protects your privacy, when you use the Services.
 
 8.2 You agree to the use of your data in accordance with Pear Deck’s privacy policies.
 
@@ -260,7 +260,7 @@ You agree that your license to Pear Deck and Pear Deck end users will be perpetu
 
 ## 21. Changes to the Terms
 
-21.1 Pear Deck may make changes to the Terms from time to time. When these changes are made, Pear Deck will make a new copy of the Terms available at http://www.Pear Deck.com/terms.
+21.1 Pear Deck may make changes to the Terms from time to time. When these changes are made, Pear Deck will make a new copy of the Terms available at https://github.com/peardeck/policies/blob/master/terms-of-service.md.
 
 21.2 You understand and agree that if you use the Services after the date on which the Terms have changed, Pear Deck will treat your use as acceptance of the updated Terms.
 
