@@ -113,11 +113,11 @@ Pear Deck will display your Personal Information in your profile page and elsewh
 
 Service Providers used for business functions:
 
-* MailChimp’s marketing platform to perform personalized email communication
+* MailChimp and HubSpot marketing platform to perform personalized email communication
 
 * Salesforce CRM’s customer relationship software to manage contact information, history, and usage data shared securely from Intercom.io
 
-* Google Analytics, Intercom.io, Segment.com, Looker.com, and Zoho Reports to collect, analyze and report usage data
+* Google Analytics, Intercom.io, Segment.com, and Zoho Reports to collect, analyze and report usage data
 
 * Stripe, ProfitWell, and ChartMogul to collect and report subscription data for premium users
 
@@ -130,8 +130,6 @@ Service Providers used for the technical infrastructure of our application:
 * Firebase.io to store some of your information (for example, real time student responses)
 
 * Compose.io to store some of your information (for example, user profiles)
-
-* ConvertAPI processing service to convert existing PowerPoint files to Pear Deck format
 
 **Third-Party Applications**.   Pear Deck may share your Information with a third party application with your consent, for example when you choose to access our Services through such an application. We are not responsible for what those parties do with your information, so you should make sure you trust the application and that it has a privacy policy acceptable to you.
 
