@@ -97,7 +97,7 @@ User Content may be transferred from Pear Deck by sharing files or folders from 
 
 If you provide credit card or debit card information to complete a purchase, it is our policy to use third-party payment processing systems that comply with the Payment Card Industry Data Security Standard (PCI-DSS), which is an industry wide security standard designed to protect the confidentiality and security of your credit card information, by encryption using secure socket layer technology (SSL) and storage with AES-256 encryption.  
 
-Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.  Your credit card information will also be subject to our payment processor’s privacy policy in addition to ours. As of the date this policy went into effect, Pear Deck uses Stripe [Privacty Policy](https://stripe.com/us/privacy) for payment processing.
+Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.  Your credit card information will also be subject to our payment processor’s privacy policy in addition to ours. As of the date this policy went into effect, Pear Deck uses Stripe [Privacy Policy](https://stripe.com/us/privacy) for payment processing.
 
 If you wish to dispute a charge by mail or telephone please contact us at hello@PearDeck.com. Pear Deck complies with all legal requirements of your State’s applicable laws regarding providing refunds for unauthorized charges.  When you make a charge, we shall display a completed charge screen.  This is your electronic receipt.  You should print or save this electronic receipt for your records.  YOU REPRESENT AND WARRANT THAT YOU HAVE THE LEGAL RIGHT TO USE ANY CREDIT CARDS, DEBIT CARDS OR OTHER PAYMENT MEANS USED TO INITIATE ANY TRANSACTION.
 
@@ -113,9 +113,9 @@ Pear Deck will display your Personal Information in your profile page and elsewh
 
 Service Providers used for business functions:
 
-* MailChimp and HubSpot marketing platform to perform personalized email communication
+* HubSpot marketing platform to perform personalized email communication
 
-* Salesforce CRM’s customer relationship software to manage contact information, history, and usage data shared securely from Intercom.io
+* Salesforce CRM’s customer relationship software to manage contact information, history, and usage data shared securely from HubSpot
 
 * Google Analytics, Intercom.io, Segment.com, and Zoho Reports to collect, analyze and report usage data
 
