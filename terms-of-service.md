@@ -228,7 +228,7 @@ d. Other Forms of Payment. Pear Deck may enable other forms of payment by making
 
 19.1 The Services may include hyperlinks to other web sites or content or resources. Pear Deck may have no control over any web sites or resources which are provided by companies or persons other than Pear Deck.
 
-19.2 You acknowledge and agree that neither Pear Deck nor its licensors or resllers are responsible for the availability of any such external sites or resources, and does not endorse any advertising, products or other materials on or available from such web sites or resources.
+19.2 You acknowledge and agree that neither Pear Deck nor its licensors or resellers are responsible for the availability of any such external sites or resources, and does not endorse any advertising, products or other materials on or available from such web sites or resources.
 
 19.3 You acknowledge and agree that neither Pear Deck nor its licensors or resellers are liable for any loss or damage which may be incurred by you as a result of the availability of those external sites or resources, or as a result of any reliance placed by you on the completeness, accuracy or existence of any advertising, products or other materials on, or available from, such web sites or resources.
 
