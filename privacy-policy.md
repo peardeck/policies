@@ -87,7 +87,7 @@ All data remains the property of and is solely owned, and thereby controlled, by
 
 Under FERPA, a school must provide a parent, teacher or school administrator with an opportunity to inspect and review his or her child’s education records within 45 days following its receipt of a request. A school is required to provide a parent with copies of education records, or make other arrangements, if a failure to do so would effectively prevent the parent from obtaining access to the records.
 
-Requests to review student data from parents, teachers, and administrators may be directed to privacy@peardeck.com.  In the event there is any erroneous data contained in the student record, Pear Deck will advise parents, legal guardians, and eligible students to contact the school to update their information in their Google or Microsoftuser profile.
+Requests to review student data from parents, teachers, and administrators may be directed to privacy@peardeck.com.  In the event there is any erroneous data contained in the student record, Pear Deck will advise parents, legal guardians, and eligible students to contact the school to update their information in their Google or Microsoft user profile.
 
 ## DATA TRANSFER
 
