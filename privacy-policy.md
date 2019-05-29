@@ -1,5 +1,5 @@
 # Pear Deck Privacy Policy
-*Last Modified: November 28, 2017 (changes to go into effect November 28, 2017)*
+*Last Modified: May 29, 2019 (changes to go into effect June 29, 2019)*
 
 Pear Deck is designed for use in schools, and we are committed to the highest standards of protection for student data and personally identifiable information (“PII”) at all times.  In addition to this Privacy Policy, we also comply with the Family Educational Rights and Privacy Act (“FERPA”), and the Children’s Online Privacy Protection Act ("COPPA"), and applicable state laws. In addition, Pear Deck has signed the [Student Privacy Pledge] (https://studentprivacypledge.org/).
 
@@ -7,7 +7,7 @@ This Privacy Policy explains how Pear Deck, Inc., ("**_we_**" or “**_Pear Deck
 
 *Changes to this Privacy Policy*
 
-We manage changes to this Privacy Policy via [this public repository](https://github.com/peardeck/policies) hosted on GitHub.com. If we make a material change to this Privacy Policy with respect to how we collect and use your personal information, we will provide at least 30 days’ prior written notice to you by email to the email address specified in your account, if you have one, so that you have sufficient time to evaluate the change, and you can choose to opt-out by revoking Google Permission to your Pear Deck account before the change takes effect.  **IF YOU DO NOT ACCEPT THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SERVICES.**
+We manage changes to this Privacy Policy via [this public repository](https://github.com/peardeck/policies) hosted on GitHub.com. If we make a material change to this Privacy Policy with respect to how we collect and use your personal information, we will provide at least 30 days’ prior written notice to you by email to the email address specified in your account, if you have one, so that you have sufficient time to evaluate the change, and you can choose to opt-out by revoking Google or Microsoft Permission to your Pear Deck account before the change takes effect.  **IF YOU DO NOT ACCEPT THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SERVICES.**
 
 
 ## THE INFORMATION WE COLLECT AND STORE
@@ -16,13 +16,13 @@ Pear Deck may collect and store the following information when running our Servi
 
 ## Information You Provide
 
-Pear Deck does not intentionally collect any personally identifiable information ("PII") from users identified as students. Depending on how you use the Services, you may be required to provide certain personally identifiable information ("**_Personal Information_**") through your Google Account, which may include, but is not limited to, your:
+Pear Deck does not intentionally collect any personally identifiable information ("PII") from users identified as students. Depending on how you use the Services, you may be required to provide certain personally identifiable information ("**_Personal Information_**") through your Google or Microsoft Account, which may include, but is not limited to, your:
 
-* Google Account (Email address)
+* Email Address (associated with a Google or Microsoft Account)
 
-* Name (if you include it in your Google Profile)
+* Name (if you include it in your Google or Microsoft Profile)
 
-* Your image and likeness if you include it in your Google profile or include in content that you create with our Services (these type of files are referred to as your "**_User Content_**")
+* Your image and likeness if you include it in your Google or Microsoft profile or include in content that you create with our Services (these type of files are referred to as your "**_User Content_**")
 
 * User Content may include text images and media that you include in your Pear Deck presentation
 
@@ -75,9 +75,9 @@ If you submit Personal Information to us, we will only use it for the purpose yo
 
 ## HOW WE COLLECT USAGE DATA
 
-Pear Deck collects some information (ourselves or using third party services) using logging and cookies, such as IP address, which can be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of our Services, for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, and to verify users have the authorization needed for our Services to process their requests. As of the date this policy went into effect, we use Google Analytics to track anonymous usage across all users and Intercom.io to track usage for users specifically identified as teachers. [The Privacy Policy of Google Analytics](http://www.google.com/intl/en/policies/) are available online, [and information on how to opt out of that service](https://tools.google.com/dlpage/gaoptout?hl=en). The [Intercom.io Privacy Policy](http://docs.intercom.io/privacy) is also available.
+Pear Deck collects some information (ourselves or using third party services) using logging and cookies, such as IP address, which can be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of our Services, for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, and to verify users have the authorization needed for our Services to process their requests. As of the date this policy went into effect, we use Google Analytics to track anonymous usage across all users and Hubspot to track usage for users specifically identified as teachers. [The Privacy Policy of Google Analytics](http://www.google.com/intl/en/policies/) are available online, [and information on how to opt out of that service](https://tools.google.com/dlpage/gaoptout?hl=en). The [Intercom.io Privacy Policy](http://docs.intercom.io/privacy) is also available.
 
-We store all of our data on Google Cloud Platform and allow a third-party called Looker.com to access it to provide us with analytics.
+We store all of our data on Google Cloud Platform.
 
 ## DATA OWNERSHIP
 
@@ -87,11 +87,11 @@ All data remains the property of and is solely owned, and thereby controlled, by
 
 Under FERPA, a school must provide a parent, teacher or school administrator with an opportunity to inspect and review his or her child’s education records within 45 days following its receipt of a request. A school is required to provide a parent with copies of education records, or make other arrangements, if a failure to do so would effectively prevent the parent from obtaining access to the records.
 
-Requests to review student data from parents, teachers, and administrators may be directed to privacy@peardeck.com.  In the event there is any erroneous data contained in the student record, Pear Deck will advise parents, legal guardians, and eligible students to contact the school to update their information in their Google user profile.
+Requests to review student data from parents, teachers, and administrators may be directed to privacy@peardeck.com.  In the event there is any erroneous data contained in the student record, Pear Deck will advise parents, legal guardians, and eligible students to contact the school to update their information in their Google or Microsoftuser profile.
 
 ## DATA TRANSFER
 
-User Content may be transferred from Pear Deck by sharing files or folders from your Google Drive.  Google also provides a tool called Takeout that allows you to export and transfer all data at one time (see: https://takeout.google.com/settings/takeout).  
+User Content may be transferred from Pear Deck by sharing files or folders from your Google Drive or Microsoft OneDrive.  Google also provides a tool called Takeout that allows you to export and transfer all data at one time (see: https://takeout.google.com/settings/takeout).  
 
 ## PAYMENT INFORMATION
 
@@ -117,15 +117,15 @@ Service Providers used for business functions:
 
 * Salesforce CRM’s customer relationship software to manage contact information, history, and usage data shared securely from HubSpot
 
-* Google Analytics, Intercom.io, Segment.com, and Zoho Reports to collect, analyze and report usage data
+* Google Analytics, HubSpot, and Segment.com to collect, analyze and report usage data
 
-* Stripe, ProfitWell, and ChartMogul to collect and report subscription data for premium users
+* Stripe and ProfitWell to collect and report subscription data for premium users
 
 Service Providers used for the technical infrastructure of our application:
 
 * Amazon’s Web Services (AWS) to store some of your information (for example, your User Content)
 
-* Google's Cloud Platform and Google Drive to store some of your information (for example, your User Content.  Teachers may also export student responses to a a Google Spreadsheet) 
+* Google's Cloud Platform, Google Drive, and Microsoft OneDrive to store some of your information (for example, your User Content.  Google Teachers may also export student responses to a a Google Spreadsheet) 
 
 * Firebase.io to store some of your information (for example, real time student responses)
 
@@ -137,7 +137,9 @@ Service Providers used for the technical infrastructure of our application:
 
 ## DELETING YOUR INFORMATION
 
-To delete your account, please remove the Pear Deck application from your [Google Drive Permissions] (https://security.google.com/settings/security/permissions?pli=1) and delete your Pear Deck user content from your Google Drive. 
+To delete your account using Google, please remove the Pear Deck application from your [Google Drive Permissions] (https://security.google.com/settings/security/permissions?pli=1) and delete your Pear Deck user content from your Google Drive. 
+
+To delete your accounting using Microsoft, please manage the Pear Deck permission here: https://account.live.com/consent/Manage.  If you a Microsoft User belonging to an organization, please ask your administrator to manage the application.  
 
 ## Pear Deck ENTERPRISE ACCOUNT
 
