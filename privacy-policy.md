@@ -129,7 +129,7 @@ Service Providers used for the technical infrastructure of our application:
 
 * Firebase.io to store some of your information (for example, real time student responses)
 
-* Compose.io to store some of your information (for example, user profiles)
+* mongodb.com/cloud/atlas to store some of your information (for example, user profiles)
 
 **Third-Party Applications**.   Pear Deck may share your Information with a third party application with your consent, for example when you choose to access our Services through such an application. We are not responsible for what those parties do with your information, so you should make sure you trust the application and that it has a privacy policy acceptable to you.
 
