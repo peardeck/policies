@@ -1,3 +1,4 @@
+
 # Pear Deck Privacy Policy
 *Last Modified: May 29, 2019 (changes to go into effect June 29, 2019)*
 
@@ -13,6 +14,7 @@ We manage changes to this Privacy Policy via [this public repository](https://gi
 ## THE INFORMATION WE COLLECT AND STORE
 
 Pear Deck may collect and store the following information when running our Services.
+
 
 ## Information You Provide
 
