@@ -16,11 +16,11 @@ Pear Deck may collect and store the following information when running our Servi
 
 ## Information You Provide
 
-Pear Deck does not intentionally collect any personally identifiable information ("PII") from users identified as students. Depending on how you use the Services, you may be required to provide certain personally identifiable information ("**_Personal Information_**") through your Google or Microsoft Account, which may include, but is not limited to, your:
+Pear Deck does not intentionally collect any personally identifiable information ("PII") from users identified as students. Depending on how you use the Services, you may be required to provide certain personally identifiable information ("**_Personal Information_**") through your Google, Microsoft, Canvas, or Schoology Account, which may include, but is not limited to, your:
 
-* Email Address (associated with a Google or Microsoft Account)
+* Email Address (associated with a Google, Microsoft, Canvas, or Schoology Account)
 
-* Name (if you include it in your Google or Microsoft Profile)
+* Name (if you include it in your Google or Microsoft Profile or if it is sent via LTI to Canvas or Schoology)
 
 * Your image and likeness if you include it in your Google or Microsoft profile or include in content that you create with our Services (these type of files are referred to as your "**_User Content_**")
 
@@ -75,7 +75,7 @@ If you submit Personal Information to us, we will only use it for the purpose yo
 
 ## HOW WE COLLECT USAGE DATA
 
-Pear Deck collects some information (ourselves or using third party services) using logging and cookies, such as IP address, which can be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of our Services, for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, and to verify users have the authorization needed for our Services to process their requests. As of the date this policy went into effect, we use Google Analytics to track anonymous usage across all users and Hubspot to track usage for users specifically identified as teachers. [The Privacy Policy of Google Analytics](http://www.google.com/intl/en/policies/) are available online, [and information on how to opt out of that service](https://tools.google.com/dlpage/gaoptout?hl=en). The [Intercom.io Privacy Policy](http://docs.intercom.io/privacy) is also available.
+Pear Deck collects some information (ourselves or using third party services) using logging and cookies, such as IP address, which can be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of our Services, for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, and to verify users have the authorization needed for our Services to process their requests. As of the date this policy went into effect, we use Google Analytics to track anonymous usage across all users and Hubspot to track usage for users specifically identified as teachers. [The Privacy Policy of Google Analytics](http://www.google.com/intl/en/policies/) are available online, [and information on how to opt out of that service](https://tools.google.com/dlpage/gaoptout?hl=en). The [HubSpot Privacy Policy](https://legal.hubspot.com/privacy-policy) is also available.
 
 We store all of our data on Google Cloud Platform.
 
@@ -91,7 +91,7 @@ Requests to review student data from parents, teachers, and administrators may b
 
 ## DATA TRANSFER
 
-User Content may be transferred from Pear Deck by sharing files or folders from your Google Drive or Microsoft OneDrive.  Google also provides a tool called Takeout that allows you to export and transfer all data at one time (see: https://takeout.google.com/settings/takeout).  
+User Content may be transferred from Pear Deck by sharing files or folders from your Google Drive or Microsoft OneDrive.  LMS data can be exported from the LMS. Google also provides a tool called Takeout that allows you to export and transfer all data at one time (see: https://takeout.google.com/settings/takeout).  
 
 ## PAYMENT INFORMATION
 
@@ -141,6 +141,7 @@ To delete your account using Google, please remove the Pear Deck application fro
 
 To delete your accounting using Microsoft, please manage the Pear Deck permission here: https://account.live.com/consent/Manage.  If you a Microsoft User belonging to an organization, please ask your administrator to manage the application.  
 
+
 ## Pear Deck ENTERPRISE ACCOUNT
 
 If you have a Pear Deck Enterprise from your school or organization account, your Administrator may be able to:
@@ -149,7 +150,9 @@ If you have a Pear Deck Enterprise from your school or organization account, you
 
 * disclose, restrict, or access information that you have provided or that is made available to you when using your Pear Deck Enterprise account; and
 
-* control how your Pear Deck Enterprise account may be accessed or deleted.
+* control how your Pear Deck Enterprise account may be accessed or deleted;
+
+* disable an LTI integration associated with your account.
 
 Please refer to your organization's policies if you have questions about your Administrator's rights.
 
