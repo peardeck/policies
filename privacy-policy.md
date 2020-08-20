@@ -24,7 +24,7 @@ Pear Deck does not intentionally collect any personally identifiable information
 
 * Your image and likeness if you include it in your Google or Microsoft profile or include in content that you create with our Services (these type of files are referred to as your "**_User Content_**")
 
-* User Content may include text images and media that you include in your Pear Deck presentation
+* User Content may include any text, images, and media you include in your presentation or student responses
 
 You may choose not to provide your Personal Information; however, if you do not provide your Personal Information you may not be able to use all the functions offered by the Services.
 
